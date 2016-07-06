@@ -1,0 +1,32 @@
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\AdaptiveQuadrWPF.exe.config
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.csprojResolveAssemblyReference.cache
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\App.g.cs
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF_MarkupCompile.cache
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.g.resources
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.Properties.Resources.resources
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.csproj.GenerateResource.Cache
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\AdaptiveQuadrWPF.exe
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\AdaptiveQuadrWPF.pdb
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\info.lundin.math.dll
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.exe
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.pdb
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\CalculateArea.baml
+D:\KPI\Semester 3\Технології паралельних обчислень\Lab C#\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\CalculateArea.g.cs
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\AdaptiveQuadrWPF.exe.config
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.exe
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.pdb
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\AdaptiveQuadrWPF.exe
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\AdaptiveQuadrWPF.pdb
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\info.lundin.math.dll
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.csprojResolveAssemblyReference.cache
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\CalculateArea.baml
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\CalculateArea.g.cs
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\App.g.cs
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF_MarkupCompile.cache
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.g.resources
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.Properties.Resources.resources
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\obj\Debug\AdaptiveQuadrWPF.csproj.GenerateResource.Cache
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\WPFToolkit.dll
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\KPI\Semester 2\Programming\Kursova\AdaptiveQuadrWPF\AdaptiveQuadrWPF\bin\Debug\WPFToolkit.pdb
